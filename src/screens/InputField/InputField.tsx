@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.scss";
+import "./InputField.scss";
 
 export const InputField = (): JSX.Element => {
   return (
